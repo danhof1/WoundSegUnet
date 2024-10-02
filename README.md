@@ -5,7 +5,17 @@ https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
 
 Correct File Format:
 
-project-root/ ├── README.md ├── data/ │ ├── raw/ │ ├── processed/ ├── src/ │ ├── main.py │ ├── utils.py ├── tests/ │ ├── test_main.py ├── docs/ └── requirements.txt
+You can manually type this structure using spaces or characters like `├──` and `│`. Here’s how you can create this:
+
+- **`├──`**: Represents a directory or file.
+- **`│`**: Represents a vertical line to show continuation.
+- **`└──`**: Represents the end of a directory or file in the tree.
+
+### Tools to Automatically Generate Directory Trees
+Alternatively, you can use a tool like `tree` to generate this structure and copy it into your README. If you are using a Unix-based system (Linux, macOS), you can generate a directory tree like this:
+
+```bash
+tree -L 2
 
 ## Wound Image Segmentation using Deep CNN Architectures
 Researcher: Daniel Doyon
