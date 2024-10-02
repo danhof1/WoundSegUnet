@@ -5,7 +5,7 @@ https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
 
 Correct File Format:
 
-Wound Dataset/ ├── Test Images/ ├── Test Masks/ ├── Train Images/ ├── Train Masks/ └── Validation/
+project-root/ ├── README.md ├── data/ │ ├── raw/ │ ├── processed/ ├── src/ │ ├── main.py │ ├── utils.py ├── tests/ │ ├── test_main.py ├── docs/ └── requirements.txt
 
 ## Wound Image Segmentation using Deep CNN Architectures
 Researcher: Daniel Doyon
