@@ -5,11 +5,14 @@ https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
 
 Correct File Format:
 
-You can manually type this structure using spaces or characters like `├──` and `│`. Here’s how you can create this:
-
-- **`├──`**: Represents a directory or file.
-- **`│`**: Represents a vertical line to show continuation.
-- **`└──`**: Represents the end of a directory or file in the tree.
+Wound Seg Directory Structure:
+Root
+ `├──`: trainingImages
+ `│`: trainingMasks
+ `│`: validationImages
+ `│`: validationMasks
+ `│`: testingImages
+ `└──`: Represents the end of a directory or file in the tree.
 
 ### Tools to Automatically Generate Directory Trees
 Alternatively, you can use a tool like `tree` to generate this structure and copy it into your README. If you are using a Unix-based system (Linux, macOS), you can generate a directory tree like this:
