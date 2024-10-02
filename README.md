@@ -11,8 +11,7 @@ Root
  `│`: trainingMasks
  `│`: validationImages
  `│`: validationMasks
- `│`: testingImages
- `└──`: Represents the end of a directory or file in the tree.
+ `└──`: testingImages
 
 ## Wound Image Segmentation using Deep CNN Architectures
 Researcher: Daniel Doyon
