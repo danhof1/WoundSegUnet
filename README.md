@@ -5,12 +5,7 @@ https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
 
 Correct File Format:
 
-Wound Dataset
->Test Images
->Test Masks
->Train Images
->Train Masks
->Validation
+Wound Dataset/ ├── Test Images/ ├── Test Masks/ ├── Train Images/ ├── Train Masks/ └── Validation/
 
 ## Wound Image Segmentation using Deep CNN Architectures
 Researcher: Daniel Doyon
