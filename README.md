@@ -1,7 +1,16 @@
 # WoundSegUnet
 ## Reference the following datasets for training, testing, and validaiton
--> https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu
--> https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
+https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu
+https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
+
+Correct File Format:
+
+Wound Dataset
+-> Test Images
+-> Test Masks
+-> Train Images
+-> Train Masks
+-> Validation
 
 ## Wound Image Segmentation using Deep CNN Architectures
 Researcher: Daniel Doyon
